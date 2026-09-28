@@ -6,7 +6,7 @@ Master dataset and scientific paper for the SDI-BI-CI-EI Multi-Level Teleconnect
 **Author:** Alexander Valentinus Renăşteanu  
 **Status:** Independent Researcher, Galway, Ireland  
 **ORCID:** [0009-0006-3854-8911](https://orcid.org)  
-**Official DOI (Zenodo):** 10.5281/zenodo.23012662
+**Official DOI (Zenodo):** https://doi.org/10.5281/zenodo.23012662
 **Academic Indexing:** OpenAIRE  
 **Licence:** Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
