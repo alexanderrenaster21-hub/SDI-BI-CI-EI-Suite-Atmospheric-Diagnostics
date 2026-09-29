@@ -18,8 +18,8 @@ Classical univariate teleconnection metrics frequently fail to capture the non-l
 The suite systematically decouples middle-stratospheric wave interference from near-surface continental advection across an uninterrupted historical matrix of 1,041 empirical records (January 1, 1940 - September 15, 2026) derived from ECMWF ERA5 reanalyses.
 
 ## Repository Contents
-* SDI_BI_CI_EI_Suite_1940_2026.csv: The master climatological dataset containing 34 standardized parameters across 1,041 time steps.
-* Decoupling_Stratospheric_Wave_Geometry_and_Eurasian_Blocking.pdf: The complete scientific manuscript documenting the epistemological framework, mathematical formulations, and paleoclimatic validations across 36 centuries of planetary history.
+* MASTER_DATABASE_ERA5_1940_2026_FINAL_34COL.csv: The master climatological dataset containing 34 standardized parameters across 1,041 time steps.
+* Studio su SDI, BI, CI e EI ufficiale: The complete scientific manuscript documenting the epistemological framework, mathematical formulations, and paleoclimatic validations across 36 centuries of planetary history.
 
 ## Framework Axes
 * Split-Displacement Index (SDI) at 10 hPa: Discriminates between Wave-1 off-pole displacements and Wave-2 resonant bifurcations.
