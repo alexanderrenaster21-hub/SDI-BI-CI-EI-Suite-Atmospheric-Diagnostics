@@ -20,6 +20,7 @@ The suite systematically decouples middle-stratospheric wave interference from n
 ## Repository Contents
 * MASTER_DATABASE_ERA5_1940_2026_FINAL_34COL.csv: The master climatological dataset containing 34 standardized parameters across 1,041 time steps.
 * Studio su SDI, BI, CI e EI ufficiale: The complete scientific manuscript documenting the epistemological framework, mathematical formulations, and paleoclimatic validations across 36 centuries of planetary history.
+* `Master database Era  1940-2026 finale 34 col PDF.pdf`: Complete human-readable tabular matrix (1940–2026) exported in high-resolution PDF format, providing direct visual reference for all 34 parameters across 1,041 empirical records.
 
 ## Framework Axes
 * Split-Displacement Index (SDI) at 10 hPa: Discriminates between Wave-1 off-pole displacements and Wave-2 resonant bifurcations.
